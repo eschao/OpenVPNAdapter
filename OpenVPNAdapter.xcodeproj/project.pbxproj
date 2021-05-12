@@ -1591,6 +1591,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C9EABF492411133400D828D4 /* Project.xcconfig */;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
@@ -1736,6 +1737,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C9EABF492411133400D828D4 /* Project.xcconfig */;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
